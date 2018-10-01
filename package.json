@@ -1,0 +1,26 @@
+{
+  "name": "react2angular",
+  "version": "1.0.0",
+  "description": "Enables the usages of react comonents within angular 1 components",
+  "main": "react2angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42BV/react2angular.git"
+  },
+  "keywords": [
+    "react",
+    "ngreact",
+    "angular1",
+    "ngreact",
+    "ng"
+  ],
+  "author": "Pouja Nikray <pouja.nikray@42.nl>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/42BV/react2angular/issues"
+  },
+  "homepage": "https://github.com/42BV/react2angular#readme"
+}
